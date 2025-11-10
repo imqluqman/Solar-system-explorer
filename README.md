@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="preview.png" alt="Solar System Explorer Banner" width="800">
+</p>
+
+
+
+
+
+
+
 # Solar-system-explorer
 A pure CSS-only interactive Solar System visualization (no JavaScript required)
 #  Solar System Explorer
